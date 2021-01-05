@@ -9,7 +9,9 @@
     4) decision tree
     5) MINIST
     6) SVM, SVC
+    7) ensemble, random forest
   - model list_deep learning
     1) CNN
     2) DNN
+    3) RNN
 2. 도전학기_머신러닝, 딥러닝 참고
